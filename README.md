@@ -1,21 +1,21 @@
+![MasterHead](https://user-images.githubusercontent.com/97692286/214384370-79720d23-6eca-4c7a-b06b-ff6736eebe52.jpg)
 
 
-
-<h1 align="center">Hello 👋, I'm Navin 👩‍💻</h1>
-<h3 align="center">Hey it's me Navin Kumar.I have a keen interest in Web develoopment and have a huge fascination with workings of technology.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navinkrv&label=Profile%20views&color=0e75b6&style=flat" alt="navinkrv" /> </p>
+<h1 align="center">Hello 👋, I'm shivam 👩‍💻</h1>
+<h3 align="center">Hey it's me shivam deo.I have a keen interest in programming and have a huge fascination with workings of technology.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamdeo777&label=Profile%20views&color=0e75b6&style=flat" alt="shivamdeo" /> </p>
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 I’m currently working on **React Development.**
-- 🌱 I’m currently learning **Full Stack Web development.**
-- 👯 I’m looking to collaborate on **Web Projects.**
-- 👨‍💻 All of my projects are available at <a href="https://github.com/navinkrv?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="navinkrv" height="30" width="40" /></a>
-- 💬 Ask me about **HTML, CSS,JS, React.js**
+- 🔭 I’m currently working on **c++.**
+- 🌱 I’m currently learning **programming languages.**
+- 👯 I’m looking to collaborate on **Projects.**
+- 👨‍💻 All of my projects are available at <a href="https://github.com/shivamdeo777?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="navinkrv" height="30" width="40" /></a>
+- 💬 Ask me about **c,c++,java**
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navinkrv&theme=radical&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamdeo777&theme=radical&hide_border=true"/>
 </p>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
@@ -26,9 +26,9 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
 <p align="center">
-<a href="https://linkedin.com/in/navin-kr" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="navinkrv" /></a>
-<a href="https://github.com/navinkrv" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="navinkrv" /></a>
-<a href="mailto:navinkrv@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="navinkrv" /></a>
+<a href="https://linkedin.com/in/shivamdeo" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="shivamdeo777" /></a>
+<a href="https://github.com/shivamdeo777" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="shivamdeo777" /></a>
+<a href="mailto:shivamdeo777@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="shivamdeo777" /></a>
 
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
@@ -38,10 +38,10 @@
  <br />
  <p align="center">
   <a href="https://github.com/navinkrv">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=navinkrv&show_icons=true&theme=radical&count_private=true">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=shivamdeo777&show_icons=true&theme=radical&count_private=true">
   </a>
-  <a href="https://github.com/navinkrv/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=navinkrv&layout=compact&theme=radical&langs_count=6" />
+  <a href="https://github.com/shivamdeo777/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shivamdeo777&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
 </details>
@@ -51,7 +51,7 @@
  <br />
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=navinkrv&column=8&theme=darkhub"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=shivamdeo777&column=8&theme=darkhub"/>
   </a>
  </p>
 </details>
