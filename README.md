@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/97692286/214384370-79720d23-6eca-4c7a-b06b-ff6736eebe52.jpg)
+
 
 
 <h1 align="center">Hello 👋, I'm shivam 👩‍💻</h1>
