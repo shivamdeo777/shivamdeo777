@@ -8,7 +8,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 I’m currently working on **c++.**
+- 🔭 I’m currently working on **c++, DSA**
 - 🌱 I’m currently learning **programming languages.**
 - 👯 I’m looking to collaborate on **Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/shivamdeo777?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="navinkrv" height="30" width="40" /></a>
