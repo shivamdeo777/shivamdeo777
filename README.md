@@ -7,10 +7,12 @@
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
-
+👋 Hello! I’m [Shivam Deo] :
+     Third-year engineering student.
+     
+💻 Passionate about web development, design, and branding (currently working on NexIntern and a new tour website)
 - 🔭 I’m currently working on **c++, DSA**
-- 🌱 I’m currently learning **programming languages.**
-- 👯 I’m looking to collaborate on **Projects.**
+
 - 👨‍💻 All of my projects are available at <a href="https://github.com/shivamdeo777?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="navinkrv" height="30" width="40" /></a>
 - 💬 Ask me about **c,c++,java**
 
